@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>1</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p> "Yet, mark," observes our author, "the withering effect of slavery on the moral feelings! he was talking of the different ways men had in that part of the country of making money. 'Some,' said he, 'purchase droves of hogs, oxen, or horses, in one part of the Union, and drive them for sale to another; and some buy Negroes in the same way, and drive them, chained together, to different markets: I expect two gentlemen here this evening with a drove.' I expressed my horror of such traffic: he civilly assented to my observation, but plainly without any similar feeling, and spoke of the gentlemen he expected as if they were just as 'honourable men' as any other fair dealers in the community: luckily I was not cursed with their company. I never chanced to fall in with one of these human droves; but I borrow from a pleasing little work, written by a Virginian, and entitled, 'Letters from <Virginia key="Virginia, United States of America" ref="https://tools.wmflabs.org/geohack/geohack.php?pagename=Virginia&params=37.5_N_79_W_region:US-VA_type:adm1st_scale:3000000 > <Virginia> Virginia,' the following description which he gives, in the character of a foreigner newly landed at <Norfolk key="Norfolk, Virginia, United States of America" ref="https://tools.wmflabs.org/geohack/geohack.php?pagename=Norfolk%2C_Virginia&params=36_55_N_76_12_W_region:US-VA_type:city"> <Norfolk>  Norfolk. - <p> <p> "'I took the boat this morning, and crossed the ferry over to Portsmouth, the small town which I told you is opposite to this place. It was court day, and a large crowd of people was gathered about the door of the court-house. I had hardly got upon the steps to look in, when my ears were assailed by the voice of singing, and turning round to discover from what quarter it came, I saw a group of about thirty Negroes, of different sizes and ages, following a rough-looking White man, who sat carelessly lolling in his sulkey. They had just turned round the corner, and were coming up the main street to pass by the spot where I stood, on their way out of town. As they came nearer I saw some of them loaded with chains to prevent their escape; while others had hold of each other's hands, strongly grasped, as if to support themselves in their affliction. I particularly noticed a poor mother, with an infant sucking at her <p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
